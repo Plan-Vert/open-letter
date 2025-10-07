@@ -158,6 +158,13 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Yvan Sraka|-|[@yvan@functional.cafe](https://functional.cafe/@yvan)|
 <!-- Please add your name in alphabetical order! -->
 
+### Support from non-Ruby/Rails community
+
+<!-- Please add your name in alphabetical order! -->
+|Name|Project/Affiliation|Contact|
+|-|-|-|
+|Jumpei Ogawa|-|[@phanect@mstdn.jp](https://mstdn.jp/@phanect)|
+
 ### Notes (non-normative)
 
 * We appreciate that this would be a very difficult process, and there are many reasons why it "can't be done". However, we don't really know unless we try, and at the very least we can show that there is community demand for action.
