@@ -51,6 +51,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Derek Houck|-|[derekhouck.com](https://derekhouck.com)|
 |Dirk Breuer|-|[@code-later](https://github.com/code-later)|
 |Dmitry L Rocha|-|[@yetanother.place/@dmitry](https://yetanother.place/@dmitry)|
+|Dustin van Schouwen|-|[djvs.co](https://djvs.co)|
 |Edward Loveall|-|[edwardloveall.com](https://edwardloveall.com)|
 |Eleanor McHugh|rubyist since 2001|[@feyeleanor@ruby.social]|(https://ruby.social/@feyeleanor)|
 |Elouan Martinet|User of Mastodon, GitLab and Jekyll|[@Exagone313](https://share.elouworld.org/@Exagone313)|
