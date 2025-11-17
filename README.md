@@ -128,6 +128,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Nate Montgomery|Ruby lover since 2011|[@natemontgomery](https://github.com/natemontgomery)|
 |Nic Lake|-|[https://niclake.me](https://niclake.me)|
 |Nicolas Bouilleaud|-|[@_nb@mamot.fr](https://mamot.fr/@_nb)|
+|Nicolas Jean|Enercoop|[enernico @github](https://github.com/enernico)|
 |Oliver Klee|[Brain Gourmets GmbH](https://www.braingourmets.com/)|[@oliklee@chaos.social](https://chaos.social/@oliklee)|
 |Omar Luqman|[stimulus-store](https://github.com/omarluq/stimulus-store)|[@omarluq.bsky.social](https://bsky.app/profile/omarluq.bsky.social)|
 |Pat Allan|-|[freelancing-gods.com](https://freelancing-gods.com)|
