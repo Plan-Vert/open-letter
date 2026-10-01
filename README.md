@@ -86,6 +86,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Jens-Christian Fischer|[Professionelle Webentwicklung mit Ruby on Rails 2 (Book)](https://www.amazon.com/Professionelle-Webentwicklung-mit-Ruby-Rails/dp/3826616839)|[@jcfischer@swiss.social](https://swiss.social/@jcfischer)|
 |Jérémy Lecour|-|[jeremy.lecour.fr](https://jeremy.lecour.fr/)|
 |JeremyStar™|[staropensource](https://staropensource.de)|[@jeremystartm@fly.staropensource.de](https://fly.staropensource.de/@jeremystartm)|
+|Jess Sullivan|-|[transscendsurvival.org](https://www.transscendsurvival.org/)|
 |Jesse Brooklyn Hannah|-|[jbhannah.net](https://jbhannah.net)|
 |Jessica Ete|-|[kohrvid.com](https://www.kohrvid.com)|
 |Jessica Phoenix Canady|-|[jess@canady.tech](mailto:jess@canady.tech)|
