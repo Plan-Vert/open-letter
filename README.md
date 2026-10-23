@@ -111,6 +111,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Liam Arbuckle |-|[TheMrScrooby](https://twitter.com/TheMrScrooby)|
 |Lloyd Watkin|-|https://www.evilprofessor.co.uk
 |Lucas Dohmen|[The Rails 6/7/8 Way books](https://leanpub.com/therails8way)|[@moonglum@social.yakshed.org](https://social.yakshed.org/@moonglum)|
+|Lucas Fernandes|-|[https://vulgofoobar.tech/about/](https://vulgofoobar.tech/about/)|
 |Lumen Sierra|-|[@myrialux](https://github.com/myrialux)|
 |Luna Nova|-|[@luna@enby.life](https://enby.life/@luna)|
 |Maarten Brouwers|-|[https://murb.nl/contact/](https://murb.nl/contact/)|
